@@ -1,0 +1,6 @@
+{
+  "name": "ZimaxCEX - Polygon Exchange & Swap",
+  "description": "High-performance Centralized Exchange on Polygon Network with instant zero-fee ZIMAX/Polygon internal swap at 1:10,000, live external wallet transfers, order book, and real-time Ankr RPC integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
